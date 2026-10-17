@@ -1,4 +1,4 @@
-const ALLOWED_ORIGIN = "https://tapbiz.maru75180.workers.dev/";
+const ALLOWED_ORIGIN = "https://tapbiz-db.maru75180.workers.dev/";
 
 function cors(origin) {
   return {
